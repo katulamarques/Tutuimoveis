@@ -1,0 +1,73 @@
+
+
+
+body 
+{							
+         background-color: #B2DFEE;
+
+    }
+	img{
+		 text-align: center;
+width:75%;
+height:50%;
+}
+img{
+	position: relative; 
+
+    text-align: center;
+    text-indent:-9999px;
+    margin:10 auto;
+  
+    width:600px;
+    height:300px;
+}
+
+h1 {
+	
+    text-align: center;
+    text-indent:-9999px;
+    margin:0 auto;
+ width:75%;
+height:50%;
+    background:transparent url("images/logo.png") no-repeat scroll;
+
+}
+h2{
+	color: black;
+    text-align: center;
+}
+h3{ color: red;
+    text-align: center;
+	
+}
+h4{ color: red;
+    text-align: center;
+
+}
+
+	}
+	<style type="text/css">
+  .Geral {
+    height:120px;
+
+}
+
+.logo {
+    float: left;
+    width: 220px;
+    height: 120px;
+    cursor: pointer;
+    cursor: hand;
+    background-image:url(imagem/logo.png);
+    background-repeat: no-repeat;
+}
+.superior {
+    float: left;
+    width: 1005px;
+    height: 60px;
+}
+.inferior {
+    float: left;
+    width: 1005px;
+    height: 60px;
+}
